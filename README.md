@@ -6,10 +6,10 @@
 <!-- 
 ### Hi there 👋
 
-- Hi, my name is Pedro Machado and I am a Mathematics student at the University of British Columbia.
-- [My Portfolio Website](https://www.machadopedro.com)
+- Hi, my name is Mohammad Mostafa and I am a CSE student at the National University .
+- [My Portfolio Website](https://www.mostafa.com)
 
-[![Pedro Machado's Github States](https://github-readme-stats.vercel.app/api?username=machadop1407&show_icons=true&theme=dracula)](https://github.com/machadop1407/github-readme-stats)
+[![Mohammad Mostafa's Github States](https://github-readme-stats.vercel.app/api?username=mohammad-mostafa94&show_icons=true&theme=dracula)](https://github.com/mohammad-mostafa94/github-readme-stats)
  -->
 <!---
 mohammad-mostafa94/mohammad-mostafa94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
