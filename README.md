@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="#"><img width="70%" height="auto" src="https://i.ibb.co/qdkG303/dev-productivity-edit.png" /></a>
+<a href="#"><img width="70%" height="70%" src="https://i.ibb.co/qdkG303/dev-productivity-edit.png" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohammad Mostafa</h1>- I am a CSE student at the National University of Bangladesh.
 
