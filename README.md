@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<a href="#"><img width="50%"  src="https://i.ibb.co/grCL2GM/dev-productivity.png" height="auto"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.ibb.co/grCL2GM/dev-productivity.png" /></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Asif</h1>
-- Hi, my name is Mohammad Mostafa and I am a CSE student at the National University of Bangladesh.
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohammad Mostafa</h1>
+- I am a CSE student at the National University of Bangladesh.
 - [My Portfolio Website](https://www.mostafa.com)
 
 [![Mohammad Mostafa's Github States](https://github-readme-stats.vercel.app/api?username=mohammad-mostafa94&show_icons=true&theme=dracula)](https://github.com/mohammad-mostafa94/github-readme-stats)
