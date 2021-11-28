@@ -23,7 +23,6 @@ You can click the Preview link to take a look at your changes.
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-mostafa94" />
 <!-- </a> -->
 
-<br/>
 
 ## 🚀 Languages and Tools:
 
