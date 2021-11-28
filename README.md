@@ -2,7 +2,7 @@
 
 <a href="#"><img width="270px" height="auto" src="https://i.ibb.co/qdkG303/dev-productivity-edit.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohammad Mostafa</h1>
+<h1 >Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohammad Mostafa</h1>
 
 
 - I am a CSE student at the National University of Bangladesh.
