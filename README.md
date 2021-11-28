@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="#"><img width="50%"  src="https://i.ibb.co/grCL2GM/dev-productivity.png" height="175px"/></a>
+<a href="#"><img width="100%"  src="https://i.ibb.co/grCL2GM/dev-productivity.png" height="175px"/></a>
 
 - Hi, my name is Mohammad Mostafa and I am a CSE student at the National University of Bangladesh.
 - [My Portfolio Website](https://www.mostafa.com)
