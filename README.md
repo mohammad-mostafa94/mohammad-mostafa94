@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <br/>
 
-<a href="https://github.com/mohammad-mostafa94/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=mohammad-mostafa94&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="md. Golam mostafa's Activity Graph"  /></a>
+<a href="https://github.com/mohammad-mostafa94/github-readme-activity-graph"><img alt="md. Golam mostafa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mohammad-mostafa94&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF" /></a>
 
 <br/>
 <br/>
